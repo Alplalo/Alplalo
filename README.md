@@ -1,5 +1,4 @@
 ![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/main/Alplalo_name.png)
-<img src="alplalo2.jpg" alt="alplalo2" width="200"/>
 
 
 
