@@ -6,7 +6,7 @@
 
 💻 Estoy creando esta cuenta como práctica para una asignatura y para mi Trabajo de Fin de Máster (TFM).
 
-<img src="alplalo2.jpg" alt="alplalo2" style="width:200px;"/>
+<img src="alplalo2.jpg" alt="alplalo2" style="width:200px;" text-align: center/>
 
 
 <!--
