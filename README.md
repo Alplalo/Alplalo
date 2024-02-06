@@ -1,5 +1,5 @@
 ![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/main/Alplalo_name.png)
-![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/main/alplalo2.jpg)
+![https://github.com/Alplalo|100](https://raw.githubusercontent.com/Alplalo/Alplalo/main/alplalo2.jpg)
 
 
 
