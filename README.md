@@ -1,5 +1,9 @@
 ![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/main/Alplalo_name.png)
 
+👋 ¡Hola! Soy Albert Plazas. 
+📚 Actualmente estoy cursando el Máster de Modelización Computacional Atomística y Multiescala en Física, Química y Bioquímica.
+💻 Estoy creando esta cuenta como práctica para una asignatura y para mi Trabajo de Fin de Máster (TFM).
+
 
 
 
