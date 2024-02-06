@@ -6,10 +6,11 @@
 
 💻 Estoy creando esta cuenta como práctica para una asignatura y para mi Trabajo de Fin de Máster (TFM).
 
+<!--
 <div align="center">
 <img src="alplalo2.jpg" alt="alplalo2" style="width:200px;"/>
 </div>
-
+-->
 <!--
 **Alplalo/Alplalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
