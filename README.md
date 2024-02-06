@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/Alplalo_name.png)
+![https://github.com/Alplalo](https://raw.githubusercontent.com/Alplalo/Alplalo/main/Alplalo_name.png)
 <!--
 **Alplalo/Alplalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
