@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Albert Plazas. 
 
-📚 Actualmente estoy cursando el Máster de Modelización Computacional Atomística y Multiescala en Física, Química y Bioquímica.
+📚 Actualmente estoy haciendo el PhD en Biotecnología en la Universitat de Barcelona.
 
-💻 Estoy creando esta cuenta como práctica para una asignatura y para mi Trabajo de Fin de Máster (TFM).
+💻 Por aquí dejaré todo lo que vaya haciendo y que pueda tener público.
